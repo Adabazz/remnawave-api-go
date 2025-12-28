@@ -1,4 +1,4 @@
-module github.com/Adabazz/remnawave-api-go/v1
+module github.com/Adabazz/remnawave-api-go/v2
 
 go 1.25
 
